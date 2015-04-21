@@ -1,0 +1,8 @@
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Sample.dll
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Sample.pdb
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\obj\Debug\Sample.dll
+c:\users\haithem\documents\visual studio 2012\Projects\Sample\Sample\Sample\obj\Debug\Sample.pdb
